@@ -10,9 +10,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/anuruddhhit07/loadpkg.git"
+    "url": "git+https://github.com/anuruddhhit07/loadpkg.git"
   },
-  "keywords": [],
+  "keywords": ["yarn add H:\\setup\testnpm>yarn add git+https://github.com/anuruddhhit07/loadpkg.git"],
   "author": "",
   "license": "ISC",
   "devDependencies": {
